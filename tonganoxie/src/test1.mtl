@@ -1,0 +1,7 @@
+newmtl Material
+Ka 1.00000 1.00000 1.00000
+Kd 1.00000 1.00000 1.00000
+map_Ka testImage.jpg
+map_Kd testImage.jpg
+illum 5
+

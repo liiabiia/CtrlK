@@ -1,0 +1,8 @@
+Registering bytes-0.15.2...
+rs\liiabiia\Documents\IndependentResearch\.cabal-sandbox\i386-windows-ghc-8.0.2\bytes-0.15.2-I21u0td9lrUEnRrWwV6hgi
+x-f0a8e053\build\Data\Bytes\Signed.o )
+[2 of 5] Compiling Data.Bytes.VarInt ( src\Data\Bytes\VarInt.hs, dist\dist-sandbox-f0a8e053\build\Data\Bytes\VarInt.o )
+[3 of 5] Compiling Data.Bytes.Put   ( src\Data\Bytes\Put.hs, dist\dist-sandbox-f0a8e053\build\Data\Bytes\Put.o )
+[4 of 5] Compiling Data.Bytes.Get   ( src\Data\Bytes\Get.hs, dist\dist-sandbox-f0a8e053\build\Data\Bytes\Get.o )
+[5 of 5] Compiling Data.Bytes.Serial ( src\Data\Bytes\Serial.hs, dist\dist-sandbox-f0a8e053\build\Data\Bytes\Serial.o )
+cabal: Leaving directory 'C:\Users\liiabiia\AppData\Local\Temp\cabal-tmp-11358\bytes-0.15.2'

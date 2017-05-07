@@ -1,0 +1,11 @@
+Registering unordered-containers-0.2.8.0...
+ments\IndependentResearch\.cabal-sandbox\i386-windows-ghc-8.0.2\unordered-containers-0.2.8.0-FvyKf6cQfhO88vkEDSotRM
+Shift.hs, dist\dist-sandbox-f0a8e053\build\Data\HashMap\UnsafeShift.o )
+[2 of 8] Compiling Data.HashMap.Unsafe ( Data\HashMap\Unsafe.hs, dist\dist-sandbox-f0a8e053\build\Data\HashMap\Unsafe.o )
+[3 of 8] Compiling Data.HashMap.PopCount ( Data\HashMap\PopCount.hs, dist\dist-sandbox-f0a8e053\build\Data\HashMap\PopCount.o )
+[4 of 8] Compiling Data.HashMap.Array ( Data\HashMap\Array.hs, dist\dist-sandbox-f0a8e053\build\Data\HashMap\Array.o )
+[5 of 8] Compiling Data.HashMap.Base ( Data\HashMap\Base.hs, dist\dist-sandbox-f0a8e053\build\Data\HashMap\Base.o )
+[6 of 8] Compiling Data.HashMap.Lazy ( Data\HashMap\Lazy.hs, dist\dist-sandbox-f0a8e053\build\Data\HashMap\Lazy.o )
+[7 of 8] Compiling Data.HashSet     ( Data\HashSet.hs, dist\dist-sandbox-f0a8e053\build\Data\HashSet.o )
+[8 of 8] Compiling Data.HashMap.Strict ( Data\HashMap\Strict.hs, dist\dist-sandbox-f0a8e053\build\Data\HashMap\Strict.o )
+cabal: Leaving directory 'C:\Users\liiabiia\AppData\Local\Temp\cabal-tmp-11358\unordered-containers-0.2.8.0'

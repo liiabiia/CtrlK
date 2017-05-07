@@ -1,0 +1,18 @@
+Registering profunctors-5.2...
+liiabiia\Documents\IndependentResearch\.cabal-sandbox\i386-windows-ghc-8.0.2\profunctors-5.2-BASvIMAqY8c4wBUlm25KH7
+ist\dist-sandbox-f0a8e053\build\Data\Profunctor\Unsafe.o )
+[ 2 of 15] Compiling Data.Profunctor.Types ( src\Data\Profunctor\Types.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Types.o )
+[ 3 of 15] Compiling Data.Profunctor.Monad ( src\Data\Profunctor\Monad.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Monad.o )
+[ 4 of 15] Compiling Data.Profunctor.Adjunction ( src\Data\Profunctor\Adjunction.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Adjunction.o )
+[ 5 of 15] Compiling Data.Profunctor.Strong ( src\Data\Profunctor\Strong.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Strong.o )
+[ 6 of 15] Compiling Data.Profunctor.Choice ( src\Data\Profunctor\Choice.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Choice.o )
+[ 7 of 15] Compiling Data.Profunctor.Closed ( src\Data\Profunctor\Closed.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Closed.o )
+[ 8 of 15] Compiling Data.Profunctor.Traversing ( src\Data\Profunctor\Traversing.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Traversing.o )
+[ 9 of 15] Compiling Data.Profunctor.Mapping ( src\Data\Profunctor\Mapping.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Mapping.o )
+[10 of 15] Compiling Data.Profunctor  ( src\Data\Profunctor.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor.o )
+[11 of 15] Compiling Data.Profunctor.Cayley ( src\Data\Profunctor\Cayley.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Cayley.o )
+[12 of 15] Compiling Data.Profunctor.Sieve ( src\Data\Profunctor\Sieve.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Sieve.o )
+[13 of 15] Compiling Data.Profunctor.Rep ( src\Data\Profunctor\Rep.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Rep.o )
+[14 of 15] Compiling Data.Profunctor.Composition ( src\Data\Profunctor\Composition.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Composition.o )
+[15 of 15] Compiling Data.Profunctor.Ran ( src\Data\Profunctor\Ran.hs, dist\dist-sandbox-f0a8e053\build\Data\Profunctor\Ran.o )
+cabal: Leaving directory 'C:\Users\liiabiia\AppData\Local\Temp\cabal-tmp-11357\profunctors-5.2'

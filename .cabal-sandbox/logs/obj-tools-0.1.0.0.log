@@ -1,0 +1,15 @@
+Registering obj-tools-0.1.0.0...
+iabiia\Documents\IndependentResearch\.cabal-sandbox\i386-windows-ghc-8.0.2\obj-tools-0.1.0.0-DVNz2MEGmvOLoAGxZQlthR
+ dist\dist-sandbox-f0a8e053\build\Linear\Quaternion\Utils.o )
+[2 of 8] Compiling Graphics.Tonganoxie.Types ( src\Graphics\Tonganoxie\Types.hs, dist\dist-sandbox-f0a8e053\build\Graphics\Tonganoxie\Types.o )
+[3 of 8] Compiling Graphics.Tonganoxie.Normals ( src\Graphics\Tonganoxie\Normals.hs, dist\dist-sandbox-f0a8e053\build\Graphics\Tonganoxie\Normals.o )
+[4 of 8] Compiling Graphics.Tonganoxie.Material ( src\Graphics\Tonganoxie\Material.hs, dist\dist-sandbox-f0a8e053\build\Graphics\Tonganoxie\Material.o )
+[5 of 8] Compiling Graphics.Tonganoxie.Object ( src\Graphics\Tonganoxie\Object.hs, dist\dist-sandbox-f0a8e053\build\Graphics\Tonganoxie\Object.o )
+
+src\Graphics\Tonganoxie\Object.hs:279:38: warning: [-Woverlapping-patterns]
+    Pattern match is redundant
+    In a case alternative: Just _ -> ...
+[6 of 8] Compiling Graphics.Tonganoxie.Surface ( src\Graphics\Tonganoxie\Surface.hs, dist\dist-sandbox-f0a8e053\build\Graphics\Tonganoxie\Surface.o )
+[7 of 8] Compiling Graphics.Tonganoxie.Tessellation ( src\Graphics\Tonganoxie\Tessellation.hs, dist\dist-sandbox-f0a8e053\build\Graphics\Tonganoxie\Tessellation.o )
+[8 of 8] Compiling Graphics.Tonganoxie.Shapes ( src\Graphics\Tonganoxie\Shapes.hs, dist\dist-sandbox-f0a8e053\build\Graphics\Tonganoxie\Shapes.o )
+cabal: Leaving directory 'C:\Users\liiabiia\Documents\IndependentResearch\tonganoxie'

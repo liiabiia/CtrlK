@@ -1,0 +1,7 @@
+Registering contravariant-1.4...
+iabiia\Documents\IndependentResearch\.cabal-sandbox\i386-windows-ghc-8.0.2\contravariant-1.4-1KLEzwed5wc7LEMG0Fuest
+nt.hs, dist\dist-sandbox-f0a8e053\build\Data\Functor\Contravariant.o )
+[2 of 4] Compiling Data.Functor.Contravariant.Divisible ( src\Data\Functor\Contravariant\Divisible.hs, dist\dist-sandbox-f0a8e053\build\Data\Functor\Contravariant\Divisible.o )
+[3 of 4] Compiling Data.Functor.Contravariant.Compose ( src\Data\Functor\Contravariant\Compose.hs, dist\dist-sandbox-f0a8e053\build\Data\Functor\Contravariant\Compose.o )
+[4 of 4] Compiling Data.Functor.Contravariant.Generic ( src\Data\Functor\Contravariant\Generic.hs, dist\dist-sandbox-f0a8e053\build\Data\Functor\Contravariant\Generic.o )
+cabal: Leaving directory 'C:\Users\liiabiia\AppData\Local\Temp\cabal-tmp-11358\contravariant-1.4'

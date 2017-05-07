@@ -1,0 +1,15 @@
+Registering wavefront-0.7.1...
+liiabiia\Documents\IndependentResearch\.cabal-sandbox\i386-windows-ghc-8.0.2\wavefront-0.7.1-2db2VOJfwrKISZLbuHrCjK
+s, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\TexCoord.o )
+[ 2 of 12] Compiling Codec.Wavefront.Point ( src\Codec\Wavefront\Point.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Point.o )
+[ 3 of 12] Compiling Codec.Wavefront.Normal ( src\Codec\Wavefront\Normal.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Normal.o )
+[ 4 of 12] Compiling Codec.Wavefront.Location ( src\Codec\Wavefront\Location.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Location.o )
+[ 5 of 12] Compiling Codec.Wavefront.Line ( src\Codec\Wavefront\Line.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Line.o )
+[ 6 of 12] Compiling Codec.Wavefront.Face ( src\Codec\Wavefront\Face.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Face.o )
+[ 7 of 12] Compiling Codec.Wavefront.Token ( src\Codec\Wavefront\Token.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Token.o )
+[ 8 of 12] Compiling Codec.Wavefront.Element ( src\Codec\Wavefront\Element.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Element.o )
+[ 9 of 12] Compiling Codec.Wavefront.Lexer ( src\Codec\Wavefront\Lexer.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Lexer.o )
+[10 of 12] Compiling Codec.Wavefront.Object ( src\Codec\Wavefront\Object.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\Object.o )
+[11 of 12] Compiling Codec.Wavefront.IO ( src\Codec\Wavefront\IO.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront\IO.o )
+[12 of 12] Compiling Codec.Wavefront  ( src\Codec\Wavefront.hs, dist\dist-sandbox-f0a8e053\build\Codec\Wavefront.o )
+cabal: Leaving directory 'C:\Users\liiabiia\AppData\Local\Temp\cabal-tmp-11356\wavefront-0.7.1'

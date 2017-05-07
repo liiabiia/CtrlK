@@ -1,0 +1,7 @@
+Registering cereal-0.5.4.0...
+\liiabiia\Documents\IndependentResearch\.cabal-sandbox\i386-windows-ghc-8.0.2\cereal-0.5.4.0-5GV8T0cZtQC43fdhZURRFq
+ndbox-f0a8e053\build\Data\Serialize\Put.o )
+[2 of 4] Compiling Data.Serialize.Get ( src\Data\Serialize\Get.hs, dist\dist-sandbox-f0a8e053\build\Data\Serialize\Get.o )
+[3 of 4] Compiling Data.Serialize.IEEE754 ( src\Data\Serialize\IEEE754.hs, dist\dist-sandbox-f0a8e053\build\Data\Serialize\IEEE754.o )
+[4 of 4] Compiling Data.Serialize   ( src\Data\Serialize.hs, dist\dist-sandbox-f0a8e053\build\Data\Serialize.o )
+cabal: Leaving directory 'C:\Users\liiabiia\AppData\Local\Temp\cabal-tmp-11364\cereal-0.5.4.0'

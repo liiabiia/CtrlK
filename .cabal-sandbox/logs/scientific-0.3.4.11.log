@@ -1,0 +1,8 @@
+Registering scientific-0.3.4.11...
+biia\Documents\IndependentResearch\.cabal-sandbox\i386-windows-ghc-8.0.2\scientific-0.3.4.11-ABNu40bl07k4VipIxqEq1L
+e053\build\Utils.o )
+[2 of 5] Compiling GHC.Integer.Compat ( src\GHC\Integer\Compat.hs, dist\dist-sandbox-f0a8e053\build\GHC\Integer\Compat.o )
+[3 of 5] Compiling Data.Scientific  ( src\Data\Scientific.hs, dist\dist-sandbox-f0a8e053\build\Data\Scientific.o )
+[4 of 5] Compiling Data.Text.Lazy.Builder.Scientific ( src\Data\Text\Lazy\Builder\Scientific.hs, dist\dist-sandbox-f0a8e053\build\Data\Text\Lazy\Builder\Scientific.o )
+[5 of 5] Compiling Data.ByteString.Builder.Scientific ( src\Data\ByteString\Builder\Scientific.hs, dist\dist-sandbox-f0a8e053\build\Data\ByteString\Builder\Scientific.o )
+cabal: Leaving directory 'C:\Users\liiabiia\AppData\Local\Temp\cabal-tmp-11356\scientific-0.3.4.11'
