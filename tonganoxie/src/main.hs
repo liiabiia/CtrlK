@@ -27,6 +27,7 @@ import Codec.Picture as P
 
 --Liia imports
 import Graphics.Tonganoxie.PolyTransform
+import Graphics.Tonganoxie.Distance
 --test:: FilePath -> IO Object
 --test x = readObject x
 
@@ -181,22 +182,7 @@ transformThisLoop img context = do
   --let tryThis = mkMT recUVMaterial
   let inRecUVMaterial = V.fromList [recUVMaterial]
 
-  let n1 = calcVertexNormal v1 v2 v3
-  let n2 = calcVertexNormal v1 v2 v6
-  let n3 = calcVertexNormal v7 v6 v2
-  let n4 = calcVertexNormal v8 v7 v4
-  let n5 = calcVertexNormal v8 v5 v1
-  let n6 = calcVertexNormal v5 v6 v7
 
-  let ns = V.fromList [n1, n2, n3, n4, n5, n6]
-
-    -- this is V4 R3
-  --need g R2 mesh
-  --create mesh out of the picture
-  --concatenate all the bits of pictures together? ***DO THIS IN MESH
-  --mappend
-  --let m =
-  --let (V2 u1, v1) = (V2 x1 y1)
   let uvPts = [(xyToUV (V2 x1 y1) (iw, ih)), (xyToUV (V2 x2 y2) (iw, ih)), (xyToUV (V2 x3 y3) (iw, ih)), (xyToUV (V2 x4 y4) (iw, ih)), (xyToUV (V2 x5 y5) (iw, ih)), (xyToUV (V2 x6 y6) (iw,ih)), (xyToUV (V2 x7 y7) (iw, ih)), (xyToUV (V2 x8 y8) (iw, ih))]
   --print (xyToUV (V2 x1 y1) (iw, ih))
   --print (xyToUV (V2 x2 y2) (iw, ih))
@@ -208,10 +194,6 @@ transformThisLoop img context = do
   --print (xyToUV (V2 x8 y8) (iw, ih))
 
 
-  --print(xyToUV (V2 x4 y4) (iw, ih))
-
-  --print(xyToUV (V2 x8 y8) (iw, ih))
-
   --let uvPts2 = [(V2 x1 y1), (V2 x2 y2), (V2 x3 y3), (V2 x4 y4), (V2 x5 y5), (V2 x6 y6), (V2 x7 y7), (V2 x8 y8)]
   --let please = uvShape (S.sphere) (T.tessellation (V2 4 4)) recUVMaterial
   --let please = uvShape' uvPts l w h (T.roomMesh uvPts) recUVMaterial
@@ -222,7 +204,7 @@ transformThisLoop img context = do
   --let t = T.createTess uvPts
   --let t = T.tessellation (V2 5 5)
 
-  let t = T.createTess uvPts 4
+  let t = T.createTess uvPts 3
 
   --print (length (V.toList (T.points t)))
 
@@ -248,19 +230,6 @@ transformThisLoop img context = do
   --writeObject "test1.obj" inRecObj
   writeObject "test1.obj" please
 
-
-  --map a plane, plane is a mesh
-  --get points, get normals,
-  --3d pt conversion
-  --do a let for each plane, map coordinates of the image with the plane for the material, make a create plane
-  --do a let for the object, put everything together
-  --concatinate the files together for one file
-  --see if you can do a "writeObject for a list of objects
-  --
-  --transformThisLoop img context
-
---we have to write an object
---writeObject at the end
 --draw diagonal
 drawDiagonal :: DeviceContext -> Event -> Event -> IO ()
 drawDiagonal context ptA ptB =

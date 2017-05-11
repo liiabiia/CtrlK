@@ -97,7 +97,7 @@ uvShape' ls dims tess m = Object
         the_normals = fromList $ map (faceNormal (T.points tess')) (T.faces tess')
         the_uvs = fmap (\ (A.P a) -> a) $ T.points tess
         -- <$> means (a->b) -> fa -> fb ie (*2) <$> [1..3] = [2..6]
-        tess' = (S.side'' ls dims) <$> tess
+        tess' = (S.side ls dims) <$> tess
         --tess' = S.plane <$> tess
 
         materialUV :: Material a -> PT -> a
